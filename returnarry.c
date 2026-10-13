@@ -7,7 +7,8 @@ int giveme(int arry[2][2])
         for (j = 0; j < 2; j++)
         {
             printf("[%d]", arry[i][j]);
-        }printf("\n");
+        }
+        printf("\n");
     }
 }
 int main()
